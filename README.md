@@ -17,4 +17,6 @@ Install:
 2. type "start sch_loadingscreen" in the server.cfg
 3. Restart your server
 4. Done.
-![image](https://github.com/SchniddeFiveM/sch_loadingscreen2/assets/57913974/a9f345d0-5391-4eae-9e0d-89703bfe9e5c)
+
+![image](https://github.com/SchniddeFiveM/sch_loadingscreen2/assets/57913974/5500872f-96a4-4650-8cdb-cd16edc08b2e)
+
