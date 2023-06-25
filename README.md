@@ -9,6 +9,8 @@ Installieren:
 2. "start sch_loadingscreen" in die server.cfg eintragen
 3. Server neustarten
 4. Fertig.
+
+
 -- EN -- Servername, Discord, Voicechat, Color, Music, usw. changeable in the html and css. If you've got questions, just ask. ez
 
 Install:
