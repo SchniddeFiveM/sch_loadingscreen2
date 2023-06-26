@@ -1,7 +1,7 @@
 # sch_loadingscreen2
 Simple Loadingscreen für FiveM
 
--- DE -- Servername, Discord, Sprachchat, Farbe, Musik, usw. veränderbar in der html und css. Bei Fragen einfach fragen. ez
+-- DE -- Servername, Farbe, Musik, usw. veränderbar in der html und css. Bei Fragen einfach fragen. ez
 
 Installieren:
 
@@ -11,7 +11,7 @@ Installieren:
 4. Fertig.
 
 
--- EN -- Servername, Discord, Voicechat, Color, Music, usw. changeable in the html and css. If you've got questions, just ask. ez
+-- EN -- Servername, Color, Music, usw. changeable in the html and css. If you've got questions, just ask. ez
 
 Install:
 
