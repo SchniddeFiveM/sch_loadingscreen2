@@ -6,7 +6,7 @@ Simple Loadingscreen für FiveM
 Installieren:
 
 1. Ordner aus der ZIP-Datei in den ressource Ordner ziehen.
-2. "start sch_loadingscreen" in die server.cfg eintragen
+2. "start sch_loadingscreen2" in die server.cfg eintragen
 3. Server neustarten
 4. Fertig.
 
@@ -16,7 +16,7 @@ Installieren:
 Install:
 
 1. Drag the folder out of the zip into the ressource folder in your server.
-2. type "start sch_loadingscreen" in the server.cfg
+2. type "start sch_loadingscreen2" in the server.cfg
 3. Restart your server
 4. Done.
 
